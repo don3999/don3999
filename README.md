@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Abib Subba.
 - 👀 I’m interested in exploring new techniques in artificial intelligence and machine learning to enhance data analysis..
 - 🌱 I’m currently learning Python programming and diving deeper into neural network architectures to expand my skills in machine learning.
-- 💞️ I’m looking to collaborate on innovative data analytics projects that drive meaningful insights and solutions.
-- 📫 How to reach me at uraaj3999@gmail.com/dyakthungba367@gmail.com.
+- 💞️ I’m looking to collaborate on innovative data analytics projects on vendors from google and propose amenity type specific filters that drive 
+      meaningful insights and solutions.
+- 📫 How to reach me at uraaj87@gmail.com/dyakthungba367@gmail.com.
 - 😄 Pronouns: he/him/his.
 - ⚡ Fun fact: I'm fluent in three languages and learning a fourth, just for fun.
 
